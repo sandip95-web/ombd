@@ -1,0 +1,14 @@
+@import url('../../Common/All.css');
+.movie-wrapper{
+    background-color: #2A2550;
+}
+.movie-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:1rem;
+}
+.m-name,.s-name{
+font-family: 'Comfortaa';
+padding: 3rem 2rem;
+color:#99C4C8;
+}

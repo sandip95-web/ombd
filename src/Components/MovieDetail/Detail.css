@@ -1,0 +1,32 @@
+.movie-section{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4rem 2rem;
+}
+.movie-title{
+    font-size: 3rem;
+}
+.movie-rating span{
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0.3rem 1rem;
+    
+}
+.movie-rating span:first-child{
+    padding-left: 0rem;
+}
+.movie-plot{
+    font-size: 1.3rem;
+    padding: 1rem 0rem;
+}
+.movie-info{
+    display: flex;
+    flex-direction: column;
+}
+.movie-info div{
+ padding: 0.5rem 0rem;
+}
+.movie-info span{
+    padding: 0rem 1rem;
+    font-weight: 900;
+}

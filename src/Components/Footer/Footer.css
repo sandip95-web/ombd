@@ -1,0 +1,12 @@
+@import '../../Common//All.css';
+
+.footer{
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--secondary-font-size);
+    font-family: 'Abel';
+    background-color: #DAEAF1;
+}

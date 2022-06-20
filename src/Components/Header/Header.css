@@ -1,0 +1,10 @@
+@import '../../Common/All.css';
+
+.page-title{
+    font-family: 'comfortaa';
+    font-size:var(--primary-font-size);
+    color:#6D8B74;
+}
+.logo{
+    width: 20%;
+}
